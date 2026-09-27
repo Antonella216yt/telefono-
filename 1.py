@@ -1,0 +1,1 @@
+palabras = int(input("creando paginaweb"))
